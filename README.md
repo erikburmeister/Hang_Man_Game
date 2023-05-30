@@ -1,6 +1,6 @@
 # Hang_Man_Game
 
-A terminal version of the game Hangman with ASCII-based graphics. 
+A terminal version of the game Hangman. The game features player instructions that account for correct and incorrect user input. ASCII-based graphics illustrate each step of the game to emulate the feeling of playing it on a piece of paper.
 
 Choose between 3 difficulties
 * Easy has 5-letter words
